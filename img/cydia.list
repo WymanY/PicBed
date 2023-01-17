@@ -1,0 +1,14 @@
+deb https://apt.bingner.com/ ./
+deb http://apt.modmyi.com/ stable main
+deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb http://repo.qqtlr.com/ ./
+deb https://repo.initnil.com/ ./
+deb https://repo.dynastic.co/ ./
+deb https://xia0z.github.io/ ./
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb https://repo.cydiabc.top/ ./
+deb https://repo.chariz.com/ ./
+deb https://repo.xsf1re.kr/ ./
+deb https://apt.25mao.com/ ./
+deb https://apt.fouadraheb.com/ ./
+deb https://build.frida.re/ ./
