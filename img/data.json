@@ -1,0 +1,89 @@
+{
+  "uploaded": [],
+  "picBed": {
+    "current": "github",
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "gitee",
+        "name": "Gitee图床",
+        "visible": false
+      }
+    ],
+    "uploader": "github",
+    "github": {
+      "repo": "WymanY/PicBed",
+      "branch": "master",
+      "token": "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",
+      "path": "img/",
+      "customUrl": ""
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "Ctrl+Shift+Alt+Cmd+J",
+        "name": "upload",
+        "label": "快捷上传"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "showUpdateTip": true,
+    "pasteStyle": "URL",
+    "logLevel": [
+      "all"
+    ],
+    "uploadNotification": true,
+    "rename": false,
+    "autoCopy": true,
+    "privacyEnsure": true,
+    "checkBetaUpdate": false,
+    "useBuiltinClipboard": true
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "picgo-plugin-gitee-uploader": {
+    "lastSync": "2020-12-19 12:19:38"
+  }
+}
